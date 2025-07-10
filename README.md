@@ -1,6 +1,6 @@
 # FSM Visualizer
 
-A Python-based tool to detect binary sequences (e.g., `1010`) using Moore and Mealy Finite State Machines (FSMs), with vibrant Graphviz visualizations using random pastel colors and maximized clarity.
+A Python-based tool to detect binary sequences (e.g., `1010`) using Moore and Mealy Finite State Machines (FSMs), with vibrant Graphviz visualizations .
 
 ---
 

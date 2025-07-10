@@ -123,9 +123,8 @@ Output: "0000100"  → Detected `1010` at positions 1–4
 ## Future Improvements
 
 - Support non-binary input (e.g., text or DNA characters)
-- Add GUI using `tkinter` or `PyQt`
+- Add GUI 
 - Performance benchmarks for large streams
-- Add `unittest`/`pytest` testing modules
 
 ---
 
